@@ -7,7 +7,7 @@ module.exports = {
 				'run/*'
 			],
 			tasks: [
-				'build'
+				'module'
 			],
 			options: {
 				spawn: false
