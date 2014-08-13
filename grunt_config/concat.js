@@ -2,14 +2,14 @@ module.exports = {
   concat: {
     module: {
       files: {
-        'dist/module.js': [
+        'dist/app/module.js': [
           'src/app/*.js',
           'src/app/**/*.js'
         ],
-        'dist/mocks.js' : [
+        'dist/app/mocks.js' : [
           'src/mocks/*.js'
         ],
-        'dist/module.css' : [
+        'dist/css/module.css' : [
           'src/css/*.css'
         ]
       }

@@ -2,7 +2,7 @@ module.exports = {
 	cssmin: {
 		module: {
 			files: {
-    			'dist/module.min.css': ['dist/module.css']
+    			'dist/css/module.min.css': ['dist/css/module.css']
     		}
 		}
 	}

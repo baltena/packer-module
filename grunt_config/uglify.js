@@ -2,7 +2,7 @@ module.exports = {
 	uglify: {
 		module: {
 			files: {
-				'dist/module.min.js': 'dist/module.js'
+				'dist/app/module.min.js': 'dist/app/module.js'
 			}
 		}
 	}
