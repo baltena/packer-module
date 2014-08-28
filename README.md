@@ -25,8 +25,8 @@ Grunt Task
 ----------
 The following Grunt tasks are registered to build and run angular modules.
 
-- build
-- run
+- module
+- module:run
 
 More information
 ----------------
